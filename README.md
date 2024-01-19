@@ -2,6 +2,8 @@
 
 ![Portfolio screenshot](/public/portfolio-screenshot.png)
 
+## Technologies used:
+
 1. JavaScript Framework: React
 2. CSS Framework: Tailwind CSS
 3. Bundler: Vite
