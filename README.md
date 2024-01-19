@@ -1,6 +1,6 @@
 # Portfolio Website
 
-(![Portfolio screenshot](/public/portfolio-screenshot.png))
+![Portfolio screenshot](/public/portfolio-screenshot.png)
 
 1. JavaScript Framework: React
 2. CSS Framework: Tailwind CSS
