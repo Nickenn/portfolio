@@ -12,7 +12,7 @@ const SkillCard = ({ index, name, image }) => (
     className="p-2 rounded-2xl w-[150px] h-[100px]bg-tertiary flex flex-col justify-center items-center"
   >
     <p className="text-white text-[20px] font-bold">{name}</p>
-    <img src={image} alt="Skill technology logos." />
+    <img className="w-10 h-10" src={image} alt="Skill technology logos." />
   </motion.div>
 );
 
