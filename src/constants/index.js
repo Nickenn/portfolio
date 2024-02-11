@@ -62,7 +62,7 @@ const educations = [
   {
     title: "Front-end Development",
     school_name: "Noroff School of Technology and Digital Media",
-    date: "Jan 2022 - Des 2024",
+    date: "Jan 2022 - Des 2023",
     descriptions: [
       "The program is designed to assist students in designing and implementing engaging and user friendly interfaces.",
       "Equips students with knowledge on how to use relevant tools for web development.",
